@@ -3,6 +3,6 @@ function test(id){
 	var disx=0;
 	var disy=0;
 	obj.onmousedown=function(){
-		
+		var
 	}
 }
